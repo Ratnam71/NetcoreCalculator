@@ -1,0 +1,32 @@
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\SAILS-DM159\OneDrive - Sails Software Solutions Pvt Ltd\Desktop\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.genruntimeconfig.cache
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\SAILS-DM159\Downloads\NetCoreCalculator\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.genruntimeconfig.cache
